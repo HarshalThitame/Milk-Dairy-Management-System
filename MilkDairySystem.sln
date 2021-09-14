@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilkDairySystem", "MilkDairySystem\MilkDairySystem.csproj", "{BB2FE59D-FC6B-476C-9DE2-60251556C967}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB2FE59D-FC6B-476C-9DE2-60251556C967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB2FE59D-FC6B-476C-9DE2-60251556C967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB2FE59D-FC6B-476C-9DE2-60251556C967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB2FE59D-FC6B-476C-9DE2-60251556C967}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E49E73B9-3EEC-4527-AF81-12C56CCF6FCE}
+	EndGlobalSection
+EndGlobal
